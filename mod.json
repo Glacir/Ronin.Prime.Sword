@@ -1,0 +1,7 @@
+{
+	"Name" : "Ronin.Prime.Sword",
+	"Description" : "Use prime sword on normal Ronin.",
+	"Author" : "FlameRaptor",
+	"Version": "0.0.0",
+	"LoadPriority": 2
+}
